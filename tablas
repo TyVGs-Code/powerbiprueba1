@@ -1,37 +1,37 @@
 
 Proyecto
-| id  | Nombre | Area | 
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |               |
-| Content Cell  | Content Cell  |               |
+| clave  | nombre | area |  monto | duracion | avance |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 |  | 1 | 40 | 2 | 12 |
+| 2 |  | 2 | 40 | 2 | 22 |
 
 cientifico
-| id  | Nombre | Area |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |               |
-| Content Cell  | Content Cell  |               |
+| id  | nombre | grado | categoria |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 |               |               |               |
+| 2 |               |               |               |
 
 
 grado
-| id  | Nombre | Area |
+| id  | nombre |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1 |               |
+| 2 |               |
 
 categoria
-| id  | Nombre | Area |
+| id  | nombre |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1 |               |
+| 2 |               |
   
 area
-| id  | Nombre |
+| id  | nombre |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1 |               |
+| 2 |               |
 
 Proyecto-cientifico
 | id  | idProyecto | idCientifico |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |               |
-| Content Cell  | Content Cell  |               |
+| 1 | 1 | 2 |
+| 2 | 2 | 1 |
