@@ -1,0 +1,37 @@
+
+Proyecto
+| id  | Nombre | Area | 
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  |               |
+| Content Cell  | Content Cell  |               |
+
+cientifico
+| id  | Nombre | Area |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  |               |
+| Content Cell  | Content Cell  |               |
+
+
+grado
+| id  | Nombre | Area |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+categoria
+| id  | Nombre | Area |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+  
+area
+| id  | Nombre |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Proyecto-cientifico
+| id  | idProyecto | idCientifico |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  |               |
+| Content Cell  | Content Cell  |               |
