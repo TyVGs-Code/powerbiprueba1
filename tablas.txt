@@ -1,0 +1,36 @@
+Proyecto
+| clave  | nombre | area |  monto | duracion | avance |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | creacion de cluster de ia | 1 | 40 | 2 | 12 |
+| 2 | cracion de combustible vegetal con heces de animales | 2 | 40 | 2 | 22 |
+
+cientifico
+| id  | nombre | grado | categoria |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | Alejandro Perez | 2 | 1 |
+| 2 | Raul Mendez | 1 | 2 |
+
+
+grado
+| id  | nombre |
+| ------------- | ------------- |
+| 1 | grado 1 |
+| 2 | grado 2 |
+
+categoria
+| id  | nombre |
+| ------------- | ------------- |
+| 1 | categoria 1 |
+| 2 | categroias 2 |
+  
+area
+| id  | nombre |
+| ------------- | ------------- |
+| 1 | petroquimica |
+| 2 | sistemas |
+
+Proyecto-cientifico
+| id  | idProyecto | idCientifico |
+| ------------- | ------------- | ------------- |
+| 1 | 1 | 2 |
+| 2 | 2 | 1 |
